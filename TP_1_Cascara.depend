@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523504943 source:c:\users\martin\documents\laboratorio y programacion 1\tp_1_cascara\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
+1523505330 source:c:\users\martin\documents\laboratorio y programacion 1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"CALCULADORA.h"
+
+1523117068 c:\users\martin\documents\laboratorio y programacion 1\tp_1_cascara\funciones.h
+
+1523505450 c:\users\martin\documents\laboratorio y programacion 1\tp_1_cascara\calculadora.h
+
+1523122404 source:c:\users\martin\documents\laboratorio y programacion 1\tp_1_cascara\lib.c
+
