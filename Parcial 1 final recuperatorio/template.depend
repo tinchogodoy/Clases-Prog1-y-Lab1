@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1526592306 source:c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526592332 c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\cliente.h
+	"publicacion.h"
+
+1526593516 c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\publicacion.h
+	"cliente.h"
+
+1526480805 c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\utn.h
+
+1526593137 source:c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526593699 source:c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"Cliente.h"
+	"informar.h"
+
+1526594969 source:c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526501244 source:c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526584972 c:\users\martin\documents\laboratorio y programacion 1\parcial 1 final\informar.h
+	"publicacion.h"
+	"cliente.h"
+	"utn.h"
+
+1526598094 source:d:\mg\parcial 1 final recuperatorio\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526595164 d:\mg\parcial 1 final recuperatorio\utn.h
+
+1526595164 d:\mg\parcial 1 final recuperatorio\cliente.h
+	"publicacion.h"
+
+1526595164 d:\mg\parcial 1 final recuperatorio\publicacion.h
+	"cliente.h"
+
+1526596978 source:d:\mg\parcial 1 final recuperatorio\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526598094 source:d:\mg\parcial 1 final recuperatorio\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"publicacion.h"
+
+1526595164 source:d:\mg\parcial 1 final recuperatorio\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526597383 source:d:\mg\parcial 1 final recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+	"Cliente.h"
+	"informar.h"
+
+1526595164 d:\mg\parcial 1 final recuperatorio\informar.h
+	"publicacion.h"
+	"cliente.h"
+	"utn.h"
+
