@@ -13,10 +13,10 @@ void cliente_delete(Cliente* this)
     free(this);
 }
 
-Cliente* cliente_new2( char nombre[50], char apellido[50], char cuit[14])
+Cliente* cliente_new2( char* nombre[50], char* apellido[50], char* cuit[14])
 {
     Cliente* auxCliente = cliente_new();
-    cliente_setNombre(auxCliente, &nombre);
+    cliente_setNombre(auxCliente, nombre);
     //cliente_setApellido(auxCliente, apellido);
     //cliente_setCuit(auxCliente, cuit);
     //cliente_setId(auxCliente, idCliente);
@@ -39,7 +39,7 @@ static int cliente_setId(Cliente* this)
     return retorno;
 }
 
-int cliente_setNombre(Cliente* this,char nombre[50])
+int cliente_setNombre(Cliente* this,char* nombre[50])
 {
     int retorno = -1;
     if(this != NULL)// && !validarNombre(nombre))
