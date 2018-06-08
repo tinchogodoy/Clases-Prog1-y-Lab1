@@ -14,6 +14,8 @@
 	"ArrayList.h"
 	"Employee.h"
 
+1527642210 h"
+
 1463505431 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/ArrayList.h
 
 1463505760 source:/home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.c
@@ -76,6 +78,8 @@
 	"Cliente.h"
 	<string.h>
 
+1524691840 
+
 1527815728 source:d:\practica\main.c
 	<stdio.h>
 	<stdlib.h>
@@ -83,6 +87,8 @@
 	"Cliente.h"
 	"utn.h"
 	"controller.h"
+
+1527815728 r.h"
 
 1527802570 d:\practica\arraylist.h
 
@@ -93,6 +99,8 @@
 	<stdlib.h>
 	"ArrayList.h"
 	"Cliente.h"
+
+1527815787 "
 
 1527815787 source:d:\practica\controller.c
 	<stdio.h>
@@ -107,6 +115,50 @@
 1527807965 d:\practica\controller.h
 
 1524691840 source:d:\practica\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528407875 source:/home/alumno/MG/ProgLab1/Practica_clase19/Practica/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Cliente.h"
+	<string.h>
+
+1528407875 /home/alumno/MG/ProgLab1/Practica_clase19/Practica/ArrayList.h
+
+1528407875 source:/home/alumno/MG/ProgLab1/Practica_clase19/Practica/controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"utn.h"
+	"cliente.h"
+
+1528407875 /home/alumno/MG/ProgLab1/Practica_clase19/Practica/utn.h
+
+1528407875 /home/alumno/MG/ProgLab1/Practica_clase19/Practica/cliente.h
+
+1528407875 source:/home/alumno/MG/ProgLab1/Practica_clase19/Practica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Cliente.h"
+	"utn.h"
+	"controller.h"
+
+1528407875 /home/alumno/MG/ProgLab1/Practica_clase19/Practica/controller.h
+
+1528407875 source:/home/alumno/MG/ProgLab1/Practica_clase19/Practica/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Cliente.h"
+
+1528407875 source:/home/alumno/MG/ProgLab1/Practica_clase19/Practica/utn.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
